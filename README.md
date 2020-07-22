@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://media.giphy.com/media/YOYsyk92SDEIVTuPIW/source.gif)
+
 I'm a software engineer who really likes to mess up with new technologies!
 
     🔭 I’m currently working on a video editor in C, follow me for updates!
