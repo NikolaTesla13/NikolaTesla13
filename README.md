@@ -2,6 +2,10 @@
 
 ![image](https://media.giphy.com/media/YOYsyk92SDEIVTuPIW/source.gif)
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=nikolatesla13&show_icons=true&theme=blue-green)](https://github.com/nikolatesla13/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolatesla13)](https://github.com/anuraghazra/github-readme-stats)
+
 I'm a software engineer who really likes to mess up with new technologies!
 
     🔭 I’m currently working on a video editor in C, follow me for updates!
