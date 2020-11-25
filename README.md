@@ -6,13 +6,13 @@
 
 I'm a software engineer who really likes to mess up with new technologies!
 
-    🔭 I’m currently working on a video editor in C, follow me for updates!
+    🔭 I’m currently working on a game engine in LWJGL.
 
-    🌱 I’m currently learning video editing.
+    🌱 I’m currently learning about graphics.
 
     👯 I’m looking to collaborate on open source projects, especially game engines!
 
-    🤔 I’m looking for help with GUI in C.
+    🤔 I’m looking for help with a good GUI library for Opengl with Java bindings.
 
     💬 Ask me about low level stuff.
     
@@ -23,7 +23,7 @@ I'm a software engineer who really likes to mess up with new technologies!
       
      😄 Pronouns: he
      
-     ⚡ Fun fact: I code more easily in C than CSS!
+     ⚡ Fun fact: I code more easier in C than CSS!
      
  I'm glad you find me, have a great day!
 <!--
