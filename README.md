@@ -2,6 +2,8 @@
 
 ![image](https://media.giphy.com/media/YOYsyk92SDEIVTuPIW/source.gif)
 
+![](https://komarev.com/ghpvc/?username=NikolaTesla13&style=flat)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolatesla13&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![My github stats](https://github-readme-stats.vercel.app/api?username=nikolatesla13&show_icons=true&theme=blue-green)](https://github.com/nikolatesla13/)
 
 I'm a software engineer who really likes to mess up with new technologies!
