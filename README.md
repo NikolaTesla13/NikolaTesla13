@@ -8,6 +8,8 @@
 
 I'm a software engineer who really likes to mess up with new technologies!
 
+    ⚡ Fun fact: I use Arch btw.
+
     🔭 I’m currently working on a game engine in LWJGL.
 
     🌱 I’m currently learning about graphics.
