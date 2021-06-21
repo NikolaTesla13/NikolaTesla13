@@ -2,9 +2,9 @@
 
 <br />
 
-### Welcome to my GitHub profile!
+### Welcome to my :octocat: GitHub profile!
 
-### I'm a hobbyist **programmer** 👨‍💻 from **Europe**. I love building graphical applications and contributing to open source projects.
+### I'm a hobbyist **programmer** 👨‍💻 from **Europe** <img src="https://image.flaticon.com/icons/png/512/206/206593.png" width="18" /> . I love building graphical applications and contributing to open source projects.
 
 <br /><br />
 
@@ -52,4 +52,5 @@
 - 🏢 I'm currently in school
 - 🌱 Learning more about graphics theory
 - 📫 Reach me: nikolatesla13#0001 on Discord
-- ⚡️ Fun fact: I really enjoy reading books
+- ⚡️ Fun fact: I use Arch <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" height="14"
+                alt="Vim" /> btw
