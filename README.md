@@ -13,5 +13,4 @@
 - 🏢 I'm currently in school
 - 🌱 Learning more about graphics theory
 - 📫 Reach me: nikolatesla13#0001 on Discord
-- ⚡️ Fun fact: I use Arch <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" height="14"
-                alt="Vim" /> btw
+- ⚡️ Fun fact: I use Gentoo btw
